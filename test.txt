@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn. It is a broad field of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence.
+
+There are two types of AI: Narrow AI, which is designed to perform a narrow task (like facial recognition or internet searches), and General AI, which performs any intellectual task a human can do.
+
+MachineLearning is a subset of AI that allows systems to learn from data and improve over time without being explicitly programmed. One common application of machine learning is in recommendation systems, such as those used by Netflix or Amazon.
+
+Natural 
